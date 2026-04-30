@@ -48,6 +48,8 @@ import {
   ToolsEffectiveGroupSchema,
   ToolsEffectiveParamsSchema,
   ToolsEffectiveResultSchema,
+  ToolsInvokeParamsSchema,
+  ToolsInvokeResultSchema,
 } from "./agents-models-skills.js";
 import {
   ChannelsStartParamsSchema,
